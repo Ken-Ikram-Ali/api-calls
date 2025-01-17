@@ -100,7 +100,7 @@ Example Response:
 ### 3. Retrieve List of Program Board Items
 
 #### Example 1: Fetch Default Fields for a Board
-This example demonstrates how to retrieve the default fields for a specific board.
+This endpoint retrieves all the items on the board.
 ```python
 import json
 import requests
