@@ -234,6 +234,3 @@ else:
 This repository is licensed under the [MIT License](LICENSE).
 
 Thank you for using the Kendis API utilities. For further assistance, feel free to contact us or raise an issue in this repository.
-# API Calls for Program Board Items in Kendis
-
-This repository provides examples of how to use the Kendis API for retrieving program board items, metadata for sprints, teams, and statuses. Follow the examples below to interact with the Kendis API effectively.
