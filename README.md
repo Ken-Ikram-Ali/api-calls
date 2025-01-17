@@ -129,6 +129,8 @@ else:
 ```
 
 #### Example 2: Fetch 20 Features and Their Children on Page 1
+Note: The `pageStart` value starts from 0. For example, if your `pageSize` is 100, the first call will return items 0 to 99. To fetch the next set of records, set `pageStart` to 100 for items 100 to 199, and so on.
+
 ```python
 payload = {
     "boardId": board_id,
